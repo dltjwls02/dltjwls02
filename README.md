@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 숙명여자대학교
 - 🧠 컴퓨터과학 전공, 빅데이터분석학 부전공 
-- 🛠️ Tech Stack: Python, Java, Spring Boot, Node.js, AWS, C#, Unity, R, Spark
+- 🛠️ Tech Stack: Python, Java, Typescript, Spring Boot, Node.js, AWS, C#, Unity, R, Spark
 
 ## 🔥 My Projects
 ### 📦 [Blockchain 중고거래 앱 프로젝트](https://github.com/Closhare)
