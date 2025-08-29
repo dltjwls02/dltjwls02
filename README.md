@@ -6,8 +6,14 @@
 - 🛠️ Tech Stack: Python, Java, Typescript, Spring Boot, Node.js, AWS, C#, Unity, R, Spark
 
 ## 🔥 My Projects
+### 📱 [OnAirMate 영상 채팅 플랫폼](https://github.com/ON-AIR-mate)
+- 개발기간 : 2025.06.20 - 2025.08.22
+- 핵심 역할 : 웹소캣 실시간 통신 구현 (실시간 영상 동기화 및 채팅), DB 설계, 백엔드 api 구현
+- Language : TypeScript, sql
+- Skill : Node.js, Redis, MySql, AWS, Git-action
+
 ### 📦 [Blockchain 중고거래 앱 프로젝트](https://github.com/Closhare)
-- 개발기간 : 2025.03.20 - 06.13
+- 개발기간 : 2025.03.20 - 2025.06.13
 - 핵심 역할 : DB 설계, 백엔드 api 구현, 블록체인 스마트 컨트랙트 구현
 - Language : java, solidity, sql
 - Skill : Spring Boot, MySql, AWS, Truffle, React Native
